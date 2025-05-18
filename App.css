@@ -1,0 +1,9 @@
+/* App.css */
+/* You can keep this minimal or use it for global resets if you want */
+
+body {
+  background: linear-gradient(135deg, #e0eafc 0%, #cfdef3 100%);
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+}

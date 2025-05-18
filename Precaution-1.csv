@@ -1,0 +1,106 @@
+Disease,Precaution_1,Precaution_2,Precaution_3,Precaution_4
+Fungal infection,Maintain good hygiene,Avoid sharing personal items,Wear breathable clothing and footwear,Avoid contact with known sources of infection
+Allergy,Identify and avoid allergens,Monitor pollen counts and air quality,Use air purifiers and HEPA filters,Carry necessary medications
+GERD,Avoid trigger foods and drinks,"Eat smaller, more frequent meals",Avoid lying down immediately after eating,Maintain a healthy weight
+Chronic cholestasis,Follow your doctor's dietary recommendations,Avoid alcohol and hepatotoxic substances,Manage itching,Regular monitoring and follow-up
+Drug Reaction,Maintain a detailed list of all medications and allergies,Read medication labels carefully,Report any unusual symptoms after starting a new medication immediately,Avoid self-medicating
+Peptic ulcer diseae,Follow your prescribed medication regimen,Avoid NSAIDs (nonsteroidal anti-inflammatory drugs),Manage stress,Avoid smoking and alcohol
+AIDS,Adhere strictly to antiretroviral therapy (ART),Practice safe sex,Avoid exposure to opportunistic infections,Maintain a healthy lifestyle
+Diabetes ,Follow a balanced meal plan,Monitor blood glucose levels regularly,Engage in regular physical activity,Take prescribed medications as directed
+Gastroenteritis,Practice strict hygiene,Stay hydrated,Avoid contaminated food and water,Isolate if contagious
+Bronchial Asthma,Avoid known triggers,Use prescribed medications correctly,Monitor asthma symptoms and lung function,Develop an asthma action plan with your doctor
+Hypertension ,Follow a healthy diet,Engage in regular physical activity,Maintain a healthy weight,Take prescribed medications as directed
+Migraine,Identify and avoid triggers,Manage stress,Maintain a regular sleep schedule,Use prescribed medications as directed
+Cervical spondylosis,Maintain good posture,Perform gentle neck exercises,Avoid prolonged static positions,Use proper lifting techniques
+Paralysis (brain hemorrhage),Focus on rehabilitation,Prevent complications of immobility,Manage underlying conditions,Seek emotional support
+Jaundice,Identify and treat the underlying cause,Avoid alcohol and hepatotoxic substances,Follow your doctor's dietary recommendations,Monitor liver function
+Malaria,Prevent mosquito bites,Sleep under insecticide-treated bed nets,Take prophylactic antimalarial medications as prescribed,Seek prompt medical attention if you develop fever
+Chicken pox,Get vaccinated,Avoid contact with infected individuals,Practice good hygiene,"If infected, stay home until blisters have crusted"
+Dengue,Prevent mosquito bites,Stay indoors during peak mosquito biting times,Use mosquito nets on windows and doors,Seek medical attention if you develop fever
+Typhoid,Get vaccinated if traveling to endemic areas,Practice good hygiene,Consume safe food and water,Seek prompt medical attention if you develop a sustained high fever
+hepatitis A,Get vaccinated,Practice good hygiene,Avoid consuming contaminated food and water,"If exposed, consider post-exposure prophylaxis"
+Hepatitis B,Get vaccinated,Practice safe sex,Avoid sharing needles or personal items,"If exposed, seek post-exposure prophylaxis"
+Hepatitis C,Avoid sharing needles or personal items,Practice safe sex,Ensure sterile equipment is used for medical and cosmetic procedures,Get tested if you have risk factors
+Hepatitis D,Get vaccinated against Hepatitis B,"If you have Hepatitis B, avoid behaviors that increase liver damage",Follow your doctor's recommendations for managing Hepatitis B and D,Avoid sharing needles or personal items
+Hepatitis E,Practice good hygiene,Consume safe water,Avoid raw or undercooked pork and wild game in endemic areas,Prevention relies on hygiene and safe food/water practices
+Alcoholic hepatitis,Abstain from alcohol,Follow a healthy diet,Manage complications,Seek support for alcohol dependence
+Tuberculosis,Complete the full course of prescribed antibiotics,Practice good respiratory hygiene,Ensure adequate ventilation,Household contacts should be screened for TB
+Common Cold,Practice good hygiene,Avoid touching your face,Cover your coughs and sneezes,Stay home if you are sick
+Pneumonia,Get vaccinated,Practice good hygiene,Avoid smoking,Manage underlying health conditions
+Dimorphic hemmorhoids(piles),Maintain a high-fiber diet,Drink plenty of fluids,Avoid prolonged sitting or straining,Practice good anal hygiene
+Heart attack,Manage underlying risk factors,Maintain a healthy lifestyle,Know the symptoms and seek immediate help,Follow your doctor's recommendations for medications
+Varicose veins,Avoid prolonged standing or sitting,Wear compression stockings,Maintain a healthy weight,Elevate your legs when resting
+Hypothyroidism,Take prescribed thyroid hormone replacement medication,Attend regular follow-up appointments,Inform your doctor about other medications,Follow a balanced diet
+Hyperthyroidism,Follow your doctor's prescribed treatment plan,Adhere to medication schedules,Manage symptoms,Attend regular follow-up appointments
+Hypoglycemia,Monitor blood glucose levels regularly,Eat regular meals and snacks,Carry a source of fast-acting carbohydrates,Educate family and friends about the signs and treatment
+Osteoarthristis,Maintain a healthy weight,Engage in regular low-impact exercise,Use assistive devices if needed,Practice proper body mechanics
+Arthritis,Follow your doctor's treatment plan,Engage in regular exercise,Use assistive devices if needed,Manage pain and inflammation
+(vertigo) Paroymsal  Positional Vertigo,Learn and practice canalith repositioning maneuvers,Avoid sudden head movements,Use caution with activities that may trigger vertigo,Maintain good balance and prevent falls
+Acne,Wash face gently twice daily,Avoid picking or squeezing pimples,Use non-comedogenic products,Follow dermatologist's advice
+Urinary tract infection,Drink plenty of fluids,Wipe front to back,Urinate after intercourse,Avoid holding urine for too long
+Psoriasis,Moisturize skin regularly,"Avoid triggers (stress, injury)",Use prescribed topical medications,Consider phototherapy if recommended
+Impetigo,Wash hands frequently,Don't touch sores,Use separate towels,Complete antibiotic course
+Chronic Fatigue Syndrome,Manage activity levels (pacing),Prioritize sleep hygiene,Reduce stress,Follow doctor's recommendations
+Panic Disorder,Practice relaxation techniques,Avoid caffeine and alcohol,Seek therapy (CBT),Take prescribed medications
+Lupus,Protect skin from sun exposure,Manage stress,Follow prescribed medications,Attend regular check-ups
+Endometriosis,Follow doctor's treatment plan,Manage pain with prescribed meds,"Consider lifestyle changes (diet, exercise)",Seek support if needed
+Celiac Disease,Maintain a strict gluten-free diet,Read food labels carefully,Avoid cross-contamination,Consider nutritional counseling
+Crohn's Disease,Follow prescribed medication regimen,Manage diet to avoid triggers,Stay hydrated,Manage stress
+Ulcerative Colitis,Follow prescribed medication regimen,Manage diet to avoid triggers,Stay hydrated,Manage stress
+Multiple Myeloma,Follow prescribed treatment plan,"Prevent infections (vaccinations, hygiene)",Manage pain,"Maintain bone health (calcium, vitamin D)"
+Meniere's Disease,Follow doctor's recommendations,Manage sodium intake,Avoid caffeine and alcohol,Consider vestibular rehabilitation
+Psoriatic Arthritis,Follow prescribed medication regimen,Engage in regular exercise,Protect joints,Manage skin symptoms
+Fibromyalgia,Engage in regular low-impact exercise,Prioritize sleep hygiene,Manage stress,"Consider therapies (CBT, massage)"
+Graves' Disease,Follow prescribed treatment plan,Manage stress,Avoid excessive iodine intake,Protect eyes if affected
+Hashimoto's Thyroiditis,Take prescribed thyroid hormone,Attend regular check-ups,Inform doctor about other medications,Maintain a balanced diet
+Raynaud's Disease,Keep hands and feet warm,Avoid sudden temperature changes,Manage stress,Avoid smoking
+Sarcoidosis,Follow prescribed treatment plan,Attend regular check-ups,Manage fatigue,Protect lungs (avoid irritants)
+Myasthenia Gravis,Take prescribed medications consistently,"Avoid triggers (stress, certain drugs)",Plan activities for peak energy,Be aware of crisis symptoms
+Guillain-Barre Syndrome,Strictly follow medical treatment,Focus on rehabilitation,Prevent complications of immobility,Seek emotional support
+Amyotrophic Lateral Sclerosis,Follow multidisciplinary care plan,Utilize assistive devices,Maintain communication strategies,Seek emotional and practical support
+Polycystic Ovary Syndrome,Follow doctor's recommendations,Manage weight through diet and exercise,Address metabolic concerns,"Manage symptoms (acne, hair growth)"
+Sickle Cell Disease,"Avoid triggers for crises (dehydration, cold)",Manage pain effectively,Prevent infections (vaccinations),Follow prescribed medications
+Hemophilia,Receive regular factor replacement therapy,Avoid activities with high risk of injury,Learn to recognize and treat bleeds early,Maintain good joint health
+Thalassemia,Follow prescribed blood transfusion schedule,Manage iron overload (chelation therapy),Maintain a healthy lifestyle,Genetic counseling for family planning
+Wilson's Disease,Follow prescribed copper-chelating medication,Avoid high-copper foods,Monitor liver function,Genetic counseling for family planning
+Phenylketonuria,Follow a strict low-phenylalanine diet,Use special formulas and foods,Regularly monitor phenylalanine levels,Genetic counseling for family planning
+Huntington's Disease,Follow multidisciplinary care plan,Manage motor symptoms,Address cognitive and psychiatric issues,Seek genetic counseling and support
+Duchenne Muscular Dystrophy,Follow multidisciplinary care plan,Maintain mobility and function as long as possible,Manage respiratory and cardiac complications,Seek emotional and practical support
+Marfan Syndrome,"Regular monitoring by specialists (cardiology, ophthalmology)",Avoid strenuous activities,Follow prescribed medications (beta-blockers),Genetic counseling for family planning
+Tay-Sachs Disease,Focus on supportive care,Manage symptoms and provide comfort,Genetic counseling for family planning,No specific treatment to prevent progression
+Rett Syndrome,Follow multidisciplinary care plan,"Manage symptoms (seizures, breathing)","Provide supportive therapies (OT, PT, ST)",Seek emotional and practical support
+Ankylosing Spondylitis,Engage in regular exercise and stretching,Maintain good posture,Follow prescribed medications,Avoid prolonged sitting or standing
+Behcet's Disease,Follow prescribed treatment plan,"Manage symptoms (ulcers, inflammation)",Avoid known triggers,Attend regular check-ups
+Primary Biliary Cholangitis,Follow prescribed medication (ursodeoxycholic acid),"Manage symptoms (itching, fatigue)",Avoid alcohol and hepatotoxic substances,Monitor liver function
+Sjogren's Syndrome,Manage dry eyes (artificial tears),Manage dry mouth (saliva substitutes),Stay hydrated,Follow doctor's recommendations for other symptoms
+Pernicious Anemia,Receive regular vitamin B12 injections or supplements,Follow a balanced diet,Monitor for neurological symptoms,Attend regular check-ups
+Brucellosis,Complete the full course of prescribed antibiotics,Avoid consuming unpasteurized dairy products,Use protective gear when handling animals,Seek medical attention if exposed
+Leptospirosis,Avoid contact with potentially contaminated water,Use protective gear if occupational risk,Seek prompt medical attention if symptoms develop,Complete the full course of prescribed antibiotics
+Ehlers-Danlos Syndrome,Manage pain and joint instability,Engage in low-impact exercise,Avoid activities that cause joint strain,Genetic counseling and awareness of complications
+Interstitial Cystitis,Identify and avoid bladder irritants (diet),Manage stress,Follow doctor's recommendations for treatment,Consider bladder training
+Aplastic Anemia,Avoid exposure to known toxins,"Prevent infections (hygiene, avoid sick people)","Follow prescribed treatment (transfusions, medications)",Seek emotional support
+Lead Poisoning,Avoid exposure to lead sources,Ensure safe removal of lead paint,"Maintain a healthy diet (iron, calcium)",Follow doctor's chelation therapy if needed
+Tetanus,Get vaccinated (Tdap booster every 10 years),Clean wounds thoroughly,Seek medical attention for deep or dirty wounds,"If unvaccinated and injured, consider tetanus immunoglobulin"
+Botulism,Properly can and preserve food,Avoid bulging or leaking canned goods,Cook food thoroughly,Seek immediate medical attention if symptoms develop
+Nephrotic Syndrome,Follow doctor's dietary recommendations (low sodium),"Take prescribed medications (diuretics, steroids)",Monitor fluid balance,Prevent infections
+Glomerulonephritis,Follow doctor's treatment plan,Manage blood pressure,Restrict sodium and fluids if advised,Treat underlying infections
+Spinal Muscular Atrophy,Follow multidisciplinary care plan,Utilize assistive devices,Manage respiratory complications,Seek emotional and practical support
+Zollinger-Ellison Syndrome,Follow prescribed medications (PPIs),Manage symptoms of excess stomach acid,Attend regular check-ups,Potential surgical intervention
+Trigeminal Neuralgia,"Avoid triggers (touch, cold, chewing)",Take prescribed medications,Consider nerve blocks or surgery,Manage pain effectively
+Influenza (Flu),Get vaccinated annually,Wash hands frequently,Avoid touching your face,Stay home if sick
+COVID-19,Get vaccinated and boosted,Practice good hygiene (handwashing),Wear a mask in crowded indoor settings,Isolate if you test positive
+Strep Throat,Complete the full course of antibiotics,Wash hands frequently,Avoid sharing eating utensils,Stay home until no longer contagious
+Urinary Tract Infection (UTI),Drink plenty of fluids,Urinate frequently,Wipe front to back,Complete prescribed antibiotics
+Mononucleosis,Get plenty of rest,Avoid strenuous activity (risk of spleen rupture),Stay hydrated,"Manage symptoms (sore throat, fever)"
+Ear Infection,Avoid getting water in ears if prone,Manage allergies if a trigger,"Follow doctor's recommendations (pain relief, antibiotics if bacterial)",Seek medical attention for persistent pain or fever
+Sinus Infection,Use saline nasal sprays,Stay hydrated,Use a humidifier,"Follow doctor's recommendations (decongestants, antibiotics if bacterial)"
+Bronchitis,"Avoid irritants (smoke, pollution)",Stay hydrated,Get plenty of rest,"Follow doctor's recommendations (cough suppressants, inhalers if asthmatic)"
+Hypertension,Follow a low-sodium diet,Engage in regular exercise,Take prescribed medications,Monitor blood pressure regularly
+Type 2 Diabetes,Follow a balanced meal plan,Engage in regular physical activity,Monitor blood glucose levels,Take prescribed medications
+Allergic Rhinitis,Avoid known allergens,Use air purifiers,Take antihistamines as needed,Consider nasal corticosteroids
+Acid Reflux (GERD),Avoid trigger foods,Eat smaller meals,Don't lie down after eating,Elevate the head of your bed
+Tension Headache,Manage stress,Maintain good posture,Ensure adequate sleep,Use over-the-counter pain relievers
+Asthma,Avoid known triggers,Use prescribed controller medications,Carry a rescue inhaler,Develop an asthma action plan
+Iron Deficiency Anemia,Eat iron-rich foods,Consider iron supplements if prescribed,Enhance iron absorption (vitamin C),Identify and treat underlying causes of blood loss
+Insomnia,Establish a regular sleep schedule,Create a relaxing bedtime routine,Optimize your sleep environment,Avoid caffeine and alcohol before bed
+Seasonal Allergies,Monitor pollen counts,Stay indoors on high pollen days,Use air purifiers,Take antihistamines as needed
